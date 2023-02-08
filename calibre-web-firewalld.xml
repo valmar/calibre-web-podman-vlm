@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Calibre Web</short>
+  <description>Web app for browsing, reading and downloading eBooks stored in a Calibre database.</description>
+  <port protocol="tcp" port="8083"/>
+</service>
